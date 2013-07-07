@@ -7,6 +7,7 @@ content
 -------
 - 'smile' theme inspired by Pinkie Pie - duh!
 - 'fabulosity' theme inspired by Rarity - it just looks smashing!
+- 'timidity' theme inspired by Fluttershy - and Angel!
 
 installation
 ------------
