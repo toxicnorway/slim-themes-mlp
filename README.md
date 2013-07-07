@@ -1,4 +1,4 @@
-slim\_themes\_mlp
+slim-themes-mlp
 =================
 
 Theme collection for SLiM login manager inspired by My Little Pony
