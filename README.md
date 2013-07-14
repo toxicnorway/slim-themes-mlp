@@ -8,6 +8,7 @@ content
 - 'smile' theme inspired by Pinkie Pie - duh!
 - 'fabulosity' theme inspired by Rarity - it just looks smashing!
 - 'timidity' theme inspired by Fluttershy - and Angel!
+- 'radicalness' theme inspired by Rainbow Dash - 20% cooler!
 
 installation
 ------------
