@@ -1,6 +1,8 @@
 # fabulosity theme v 0.2 for slim
-# by Tablet Mode
+# by tablet mode
 # based on Robert Führicht's Gentoo theme for slim
+# 
+# Rarity vector by ~AlmostFictional (http://almostfictional.deviantart.com/)
 
 # Messages (ie: shutdown)
 msg_color               #3771c8

@@ -6,7 +6,7 @@ Theme collection for SLiM login manager inspired by My Little Pony
 content
 -------
 - 'smile' theme inspired by Pinkie Pie - duh!
-- 'fabulosity' theme inspired by Rarity - it just looks smashing!
+- 'fabulosity' theme inspired by Rarity - it just looks smashing!  _Rarity vector by <a href="https://almostfictional.deviantart.com/">~AlmostFictional</a>_
 - 'timidity' theme inspired by Fluttershy - and Angel!
 - 'radicalness' theme inspired by Rainbow Dash - 20% cooler!
 
