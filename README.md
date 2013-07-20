@@ -9,6 +9,7 @@ content
 - 'fabulosity' theme inspired by Rarity - it just looks smashing!  _Rarity vector by <a href="https://almostfictional.deviantart.com/">~AlmostFictional</a>_
 - 'timidity' theme inspired by Fluttershy - and Angel!
 - 'radicalness' theme inspired by Rainbow Dash - 20% cooler!
+- 'reliance' theme inspired by Applejack - buy some apples!
 
 installation
 ------------
