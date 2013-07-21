@@ -10,6 +10,7 @@ content
 - 'timidity' theme inspired by Fluttershy - and Angel!
 - 'radicalness' theme inspired by Rainbow Dash - 20% cooler!
 - 'reliance' theme inspired by Applejack - buy some apples!
+- 'curiosity' theme inspired by Twilight Sparkle - totally Twilightlicious!
 
 installation
 ------------
