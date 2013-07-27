@@ -11,6 +11,7 @@ content
 - 'radicalness' theme inspired by Rainbow Dash - 20% cooler!
 - 'reliance' theme inspired by Applejack - buy some apples!
 - 'curiosity' theme inspired by Twilight Sparkle - totally Twilightlicious!
+- 'lemon-lime' theme inspired by Canni and Deus Ex - I never asked for this!
 
 installation
 ------------
