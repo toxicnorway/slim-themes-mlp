@@ -1,4 +1,4 @@
-# radicalness theme v 0.2 for slim
+# radicalness theme v 0.3 for slim
 # by tablet mode
 # based on Robert Führicht's Gentoo theme for slim
 
@@ -16,11 +16,11 @@ background_style        stretch
 input_panel_x           50%
 input_panel_y           64%
 
-input_name_x            38 
-input_name_y            60 
+input_name_x            47 
+input_name_y            67 
 
-input_pass_x            38 
-input_pass_y            116
+input_pass_x            47 
+input_pass_y            127
 
 input_font          	Sans:size=13:bold
 input_color           	#3771c8

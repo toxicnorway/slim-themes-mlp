@@ -1,4 +1,4 @@
-# curiosity theme v 0.1 for slim
+# curiosity theme v 0.2 for slim
 # by tablet mode
 # based on Robert Führicht's Gentoo theme for slim
 
@@ -16,13 +16,13 @@ background_style        stretch
 input_panel_x           50%
 input_panel_y           70%
 
-input_name_x            40 
-input_name_y            68 
+input_name_x            46 
+input_name_y            85 
 
-input_pass_x            40 
-input_pass_y            124
+input_pass_x            46 
+input_pass_y            163
 
-input_font          	Sans:size=13:bold
+input_font          	Sans:size=14:bold
 input_color           	#ff2a7f
 input_shadow_xoffset 	0
 input_shadow_yoffset 	0
