@@ -5,6 +5,8 @@ Theme collection for SLiM login manager inspired by My Little Pony
 
 content
 -------
+for preview images check out the <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki">wiki</a>
+
 - 'smile' theme inspired by Pinkie Pie - duh!
 - 'fabulosity' theme inspired by Rarity - it just looks smashing!  _Rarity vector by <a href="https://almostfictional.deviantart.com/">~AlmostFictional</a>_
 - 'timidity' theme inspired by Fluttershy - and Angel!
