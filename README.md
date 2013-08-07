@@ -3,21 +3,22 @@ slim-themes-mlp
 
 Theme collection for SLiM login manager inspired by My Little Pony
 
+_for preview images of all the themes check out the <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews">wiki</a>_
+
+
 content
 -------
-for preview images check out the <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki">wiki</a>
-
-- 'smile' theme inspired by Pinkie Pie - duh!
-- 'fabulosity' theme inspired by Rarity - it just looks smashing!  _Rarity vector by <a href="https://almostfictional.deviantart.com/">~AlmostFictional</a>_
-- 'timidity' theme inspired by Fluttershy - and Angel!
-- 'radicalness' theme inspired by Rainbow Dash - 20% cooler!
-- 'reliance' theme inspired by Applejack - buy some apples!
-- 'curiosity' theme inspired by Twilight Sparkle - totally Twilightlicious!
-- 'lemon-lime' theme inspired by Canni and Deus Ex - I never asked for this!
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#smile">'smile'</a> theme inspired by Pinkie Pie - duh!
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#fabulosity">'fabulosity'</a> theme inspired by Rarity - it just looks smashing!  _Rarity vector by <a href="https://almostfictional.deviantart.com/">~AlmostFictional</a>_
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#timidity">'timidity'</a> theme inspired by Fluttershy - and Angel!
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#radicalness">'radicalness'</a> theme inspired by Rainbow Dash - 20% cooler!
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#reliance">'reliance'</a> theme inspired by Applejack - buy some apples!
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#curiosity">'curiosity'</a> theme inspired by Twilight Sparkle - totally Twilightlicious!
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#lemon-lime">'lemon-lime'</a> theme inspired by Canni and Deus Ex - I never asked for this!
 
 installation
 ------------
-1. put the images and the slim.theme file into a new folder (eg. 'smile') in your slim theme directory (probably /usr/share/slime/themes).
+1. put the images and the slim.theme file into a new folder (eg. 'smile') in your slim theme directory (probably /usr/share/slim/themes).
 
 2. open up your slim.conf and set 'current\_theme' to whatever you called the folder
 
