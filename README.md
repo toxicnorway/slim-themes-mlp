@@ -15,7 +15,7 @@ content
 - <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#reliance">'reliance'</a> theme inspired by Applejack - buy some apples!
 - <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#curiosity">'curiosity'</a> theme inspired by Twilight Sparkle - totally Twilightlicious!
 - <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#lemon-lime">'lemon-lime'</a> theme inspired by Canni and Deus Ex - I never asked for this!
-- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#feeling-pinkie-sweet">'feeling-pinkie-sweet'</a> theme inspired by Pinkie Pie eating cake - cakey! _Pinkie by < href="https://loopend.deviantart.com/">~LoopEnd</a>_
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#feeling-pinkie-sweet">'feeling-pinkie-sweet'</a> theme inspired by Pinkie Pie eating cake - cakey! _Pinkie by <a href="https://loopend.deviantart.com/">~LoopEnd</a>_
 
 installation
 ------------
