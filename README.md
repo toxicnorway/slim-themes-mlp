@@ -16,6 +16,7 @@ content
 - <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#curiosity">'curiosity'</a> theme inspired by Twilight Sparkle - totally Twilightlicious!
 - <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#lemon-lime">'lemon-lime'</a> theme inspired by Canni and Deus Ex - I never asked for this!
 - ~~'feeling-pinkie-sweet'</a> theme inspired by Pinkie Pie eating cake - cakey! _Pinkie by <a href="https://loopend.deviantart.com/">~LoopEnd</a>_~~ _Removed in version 1.1.0_
+- <a href="https://github.com/tablet-mode/slim-themes-mlp/wiki/previews#brad">'brad'</a> theme inspired by Brad - Uh I mean Flash Sentry!
 
 installation
 ------------

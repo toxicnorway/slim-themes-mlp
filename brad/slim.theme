@@ -1,0 +1,29 @@
+# brad theme v 0.1 for slim
+# by Tablet Mode
+# based on Robert Führicht's Gentoo theme for slim
+
+# Messages (ie: shutdown)
+msg_color               #d03147
+msg_font                Sans:size=16:bold
+msg_shadow_xoffset 	0
+msg_shadow_yoffset 	0
+msg_shadow_color   	#aaaaaa
+
+# Screen background style. Valid values: stretch, tile
+background_style        stretch
+
+# Input controls
+input_panel_x           50%
+input_panel_y           68%
+
+input_name_x            26 
+input_name_y            35 
+
+input_pass_x            26 
+input_pass_y            96
+
+input_font          	Sans:size=14:bold
+input_color           	#d03147
+input_shadow_xoffset 	0
+input_shadow_yoffset 	0
+input_shadow_color   	#666666
